@@ -1,0 +1,67 @@
+html, body{
+  height : 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.index_map{
+  position: absolute;
+  z-index: 1;
+  height : 100%;
+  width  : 100%;
+}
+
+.button_layer{
+  margin-top: 20%;
+  width  : 100%;
+  position: absolute;
+  z-index: 10;
+}
+
+.search_out_side{
+  height: 50px;
+  width:50px;
+  border-radius: 150px;
+  background-color: #B6C5D9;
+  opacity:0.4;
+  z-index: 9;
+}
+
+.button_list{
+  display: none;
+  margin-top: 10%;
+  width  : 100%;
+  position: absolute;
+  z-index: 10;
+}
+
+.button_list ul{
+  list-style-type:none;
+}
+
+.button_list li{
+  margin-top: 5px;
+}
+
+.self_design_button_bar{
+  height: 50px;
+  width: 300px;
+  border-radius: 50px;
+  border-top:1px solid #D6D9E3;
+  background-color: white;
+}
+
+.self_design_button_input{
+  border: 0px;
+  margin-top: 12px;
+  width:200px;
+  font-size: 20px;
+  font-weight:bold;
+}
+.active_li{
+
+}
+
+.inactive_li{
+
+}
