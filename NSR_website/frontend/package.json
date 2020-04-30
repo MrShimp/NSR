@@ -18,7 +18,7 @@
     "bootstrap": "^4.3.1",
     "esri": "0.0.1-security",
     "esri-loader": "^2.10.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "leaflet": "^1.5.1",
     "popper.js": "^1.15.0",
     "save": "^2.4.0",
